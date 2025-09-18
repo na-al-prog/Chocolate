@@ -1,0 +1,18 @@
+body {
+  background: rgb(200,200,10);
+}
+li {
+  color: chocolate;
+    font-size: 20px;
+  font-style: Italic;
+  font-weight: bold;
+}
+h1 {
+  background-color: chocolate 
+}
+
+#Chocolate-present {
+  position:center;
+  margin-left:50%;
+  margin-right:50%;
+}
